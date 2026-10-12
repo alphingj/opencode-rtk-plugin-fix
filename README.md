@@ -1,2 +1,2 @@
 # opencode-rtk-plugin-fix
-• A post-mortem guide and production fix for resolving breaking server loader issues when upgrading global plugins to OpenCode v2.0.27+.
+• Troubleshooting guide for RTK plugin load failures in OpenCode v2. Documents API incompatibilities, error logs, recovery steps, version checks, and the upstream compatibility fix.
